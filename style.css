@@ -1,0 +1,26 @@
+:root {
+    /*Background Images*/
+    --bg-images: url('assets/White Temp Background.jpg');
+    /*Colours*/
+    --bento-fill: #ffffff;
+    --accent: #587965;
+    --primary-text: #1a1a1a;
+    --secondary-text: #6e6e6e;
+    /*Spacing (Maybe)*/
+    /*Transitions (Maybe)*/
+    /*Fonts*/
+    --font-heading: 'Fraunces', 'Times New Roman', Georgia, serif;
+    --font-body: 'Source Serif 4', 'Georgia', 'Cambria', serif;
+}
+
+.darkmode {
+    /*Background Image*/
+    --bg-images: url('assets/Black Temp Background.jpg');
+    /*Colours*/
+    --bento-fill: #2d2d2d;
+    --accent: #587965;
+    --primary-text: #eaeaea;
+    --secondary-text: 	#b0b0b0;
+    /*Spacing (Maybe)*/
+    /*Transitions (Maybe)*/
+}
